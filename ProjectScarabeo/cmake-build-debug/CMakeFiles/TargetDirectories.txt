@@ -1,0 +1,3 @@
+C:/Users/Bijol/CLionProjects/ProjectScarabeo/cmake-build-debug/CMakeFiles/ProjectScarabeo.dir
+C:/Users/Bijol/CLionProjects/ProjectScarabeo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bijol/CLionProjects/ProjectScarabeo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

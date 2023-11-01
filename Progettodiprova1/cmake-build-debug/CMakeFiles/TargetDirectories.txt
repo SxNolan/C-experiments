@@ -1,0 +1,3 @@
+C:/Users/Bijol/CLionProjects/Progettodiprova1/cmake-build-debug/CMakeFiles/Progettodiprova1.dir
+C:/Users/Bijol/CLionProjects/Progettodiprova1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bijol/CLionProjects/Progettodiprova1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

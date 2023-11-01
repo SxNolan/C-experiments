@@ -1,0 +1,3 @@
+C:/Users/Bijol/CLionProjects/progettiatrandom/projectIncovinacontinent2/cmake-build-debug/CMakeFiles/projectIncovinacontinent2.dir
+C:/Users/Bijol/CLionProjects/progettiatrandom/projectIncovinacontinent2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bijol/CLionProjects/progettiatrandom/projectIncovinacontinent2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

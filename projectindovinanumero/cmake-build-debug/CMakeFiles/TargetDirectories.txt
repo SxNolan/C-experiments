@@ -1,0 +1,3 @@
+C:/Users/Bijol/CLionProjects/projectindovinanumero/cmake-build-debug/CMakeFiles/projectindovinanumero.dir
+C:/Users/Bijol/CLionProjects/projectindovinanumero/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bijol/CLionProjects/projectindovinanumero/cmake-build-debug/CMakeFiles/rebuild_cache.dir

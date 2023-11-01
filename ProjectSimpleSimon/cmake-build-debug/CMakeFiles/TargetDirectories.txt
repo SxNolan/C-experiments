@@ -1,0 +1,3 @@
+C:/Users/Bijol/CLionProjects/ProjectSimpleSimon/cmake-build-debug/CMakeFiles/ProjectSimpleSimon.dir
+C:/Users/Bijol/CLionProjects/ProjectSimpleSimon/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bijol/CLionProjects/ProjectSimpleSimon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
